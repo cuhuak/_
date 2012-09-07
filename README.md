@@ -1,5 +1,6 @@
 /* _ ez crz min css fw :)
-=========================*/
+=========================
+*/
 
     /* _ css fw ? */
     [class*="_"]{padding-right:2%;min-height:1em;float:left;box-sizing:border-box;-moz-box-sizing:border-box}
@@ -20,9 +21,7 @@
     body {margin: 10px; font: 15px/18px Arial, sans-serif }
 
 /* Usage
--------- */
-
-/*
+--------
 
 * copy the code above
 * use :)
